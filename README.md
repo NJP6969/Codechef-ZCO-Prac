@@ -1,2 +1,25 @@
 # Codechef-ZCO-Prac
 Solution to the ZCO questions in Codechef
+1. [Smart Phone](https://www.codechef.com/ZCOPRAC/problems/ZCO14003)[x]
+2. [Video Game](https://www.codechef.com/ZCOPRAC/problems/ZCO14001?tab=statement)[x]
+3. [Variation](https://www.codechef.com/ZCOPRAC/problems/ZCO15002)[x]
+4. [Tournament](https://www.codechef.com/ZCOPRAC/problems/ZCO13001)[x]
+5. [Matched Brackets](https://www.codechef.com/ZCOPRAC/problems/ZCO12001)[x]
+6. [IPL](https://www.codechef.com/ZCOPRAC/problems/ZCO14004)[x]
+7. [Chewing](https://www.codechef.com/ZCOPRAC/problems/ZCO13003)
+8. [Round Table]
+9. [Wormholes]
+10. [Break Up]
+11. [Bookshelves]
+12. [Covering]
+13. [Bamboo Art]
+14. [Little Red Riding Hood]
+15. [Matched Brackets 2]
+16. [Rectangle]
+17. 
+18. [Four Sum]
+19. [Save Spaceman Spiff]
+20. [Vacation]
+21. [Moving Intervals]
+22. [Weird Ordering]
+23. [] 
