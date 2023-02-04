@@ -14,12 +14,18 @@ Solution to the ZCO questions in Codechef
 12. [Covering](https://www.codechef.com/ZCOPRAC/problems/ZCO15003)
 13. [Bamboo Art](https://www.codechef.com/ZCOPRAC/problems/ZCO16002)
 14. [Little Red Riding Hood](https://www.codechef.com/ZCOPRAC/problems/ZCO13002)
-15. [Matched Brackets 2]
-16. [Rectangle]
-17. 
-18. [Four Sum]
-19. [Save Spaceman Spiff]
-20. [Vacation]
-21. [Moving Intervals]
-22. [Weird Ordering]
-23. [] 
+15. [Matched Brackets 2](https://www.codechef.com/ZCOPRAC/problems/ZCO12003)
+16. [Rectangle](https://www.codechef.com/ZCOPRAC/problems/ZCO15004)
+17. [Singing Tournament](https://www.codechef.com/ZCOPRAC/problems/SINGTOUR)
+18. [Four Sum](https://www.codechef.com/ZCOPRAC/problems/ZCO17001)
+19. [Save Spaceman Spiff](https://www.codechef.com/ZCOPRAC/problems/ZCO13004)
+20. [Vacation](https://www.codechef.com/ZCOPRAC/problems/ZCO22001)
+21. [Moving Intervals](https://www.codechef.com/ZCOPRAC/problems/MOVINTRL)
+22. [Weird Ordering](https://www.codechef.com/ZCOPRAC/problems/ZCO20001)
+23. [UpDown Sequences](https://www.codechef.com/ZCOPRAC/problems/UPDOWSEQ) 
+24. [Substring Importance](https://www.codechef.com/ZCOPRAC/problems/STRIMPOR)
+25. [Interleavings and Blocks](https://www.codechef.com/ZCOPRAC/problems/ZCO20002)
+26. [Rays](https://www.codechef.com/ZCOPRAC/problems/ZCO17002)
+27. [Messages](https://www.codechef.com/ZCOPRAC/problems/ZCO22002)
+28. [Parchment](https://www.codechef.com/ZCOPRAC/problems/ZCO23001)
+29. [Weightage](https://www.codechef.com/ZCOPRAC/problems/ZCO23002)
